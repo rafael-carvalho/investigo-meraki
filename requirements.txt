@@ -7,7 +7,7 @@ future==0.16.0
 gunicorn==19.6.0
 itsdangerous==0.24
 Jinja2==2.7.3
-Mako==1.0.4
+Mako==1.2.2
 MarkupSafe==0.23
 numpy==1.11.2
 plotly==1.12.9
